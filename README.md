@@ -60,7 +60,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/razique1)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/CoderRazique/coderRazique)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://connexfrontend.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://raziquetech.vercel.app/)
 
 📧 **Email**: [abdrazique22@example.com](mailto:abdrazique22@example.com)
 
